@@ -1,2 +1,1 @@
-# dmitriyvakulenko_microservices
-dmitriyvakulenko microservices repository
+В проектах docker-1 и docker-2 создана инфраструктура для создания докер контейнера с базой данных

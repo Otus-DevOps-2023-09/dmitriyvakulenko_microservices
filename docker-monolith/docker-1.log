@@ -1,0 +1,3 @@
+вывод docker images:
+REPOSITORY                                  TAG                 IMAGE ID       CREATED          SIZE
+docker_hw/ubuntu-tmp-file                   latest              0253ec33f854   13 seconds ago   63.2MB
