@@ -6,5 +6,6 @@ RUN apk --no-cache --update add build-base && \
     pip install -r /app/requirements.txt && \
     apk del build-base
 
-ENV POST_DATABASE_HOST post_db ENV POST_DATABASE posts
+ENV POST_DATABASE_HOST post_db 
+ENV POST_DATABASE posts
 CMD ["python3", "post_app.py"]
