@@ -1,4 +1,3 @@
-@@ -0,0 +1,17 @@
 kind: Deployment
 metadata:
   name: mongo-deployment
